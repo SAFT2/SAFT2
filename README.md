@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com" alt="TebarekSolomon" />
+  <img src="https://komarev.com" alt="Profile Views" />
 </div>
 
 # Hi there, I'm Tebarek Solomon 👋
@@ -24,7 +24,7 @@ When I’m not coding, I’m probably learning something new, exploring open sou
 <p align="left">
 <a href="YOUR_PORTFOLIO_URL_HERE" target="blank"><img align="center" src="https://img.shields.io" alt="Portfolio" /></a>
 <a href="https://t.me/SAFT234" target="blank"><img align="center" src="https://img.shields.io" alt="Telegram" /></a>
-<a href="in/tebarek-solomon-953278368" target="blank"><img align="center" src="https://img.shields.io" alt="LinkedIn" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://img.shields.io" alt="LinkedIn" /></a>
 </p>
 
 ---
