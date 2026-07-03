@@ -50,6 +50,4 @@ When I’m not coding, I’m probably learning something new, exploring open sou
 
 ---
 
-<p align="center">
-Built with 💙 using Markdown. Let's connect and create awesome things together!
-</p>
+
